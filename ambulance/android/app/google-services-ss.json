@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436932926710",
+    "firebase_url": "https://itsp-bt.firebaseio.com",
+    "project_id": "itsp-bt",
+    "storage_bucket": "itsp-bt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436932926710:android:cfd3443db73cb791f2a0d7",
+        "android_client_info": {
+          "package_name": "com.tl3bc.ambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436932926710-ce2cec30aboh9avs8nv6j4fru4sfnkek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk3opgMRns_ZLJAnQ_CRyB7cY2r3wttOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436932926710-ce2cec30aboh9avs8nv6j4fru4sfnkek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
